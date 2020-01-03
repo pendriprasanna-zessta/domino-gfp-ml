@@ -1,5 +1,3 @@
-Adding new line for conflicts
-test
 This is a simple project that trains a logistic regression model.
 
 # Requirements
