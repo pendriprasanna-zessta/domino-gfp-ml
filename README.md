@@ -1,5 +1,4 @@
 Adding new line for conflicts
-Testing gitrepo conflicting files and messages
 This is a simple project that trains a logistic regression model.
 
 # Requirements
