@@ -1,5 +1,4 @@
 This is a simple project that trains a logistic regression model.
-Testing git repo conflicts
 # Requirements
 * python3 
 * pandas
