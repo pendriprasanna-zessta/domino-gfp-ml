@@ -1,5 +1,6 @@
 This is a simple project that trains a logistic regression model.
 test readme.md file
+testing
 # Requirements
 * python3 
 * pandas
