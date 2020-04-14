@@ -2,7 +2,6 @@ This is a simple project that trains a logistic regression model.
 testing push notifications
 
 
-
 # Requirements
 * python3 
 * pandas
