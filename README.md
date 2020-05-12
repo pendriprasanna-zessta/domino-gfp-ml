@@ -18,3 +18,7 @@ To run the entire pipeline:
 * `train-column-transformer.py`: Trains a column transformer that standardizes `age` and `hours-per-week` and one-hot encodes `workclass`, `education`, `gender`, and `occupation`.  Saves transformer as an artifact (`coltransformer.pkl`).
 * `train-model-logreg.py`: Trains a logistic regression model.  Saves model as an artifact (`model_logreg.pkl`)
 
+
+
+
+
